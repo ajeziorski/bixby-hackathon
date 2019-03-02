@@ -1,0 +1,7 @@
+structure (DescriptionResultConcept) {
+  description (A description of objects within the scene.)
+  property (desc) {
+    type (DescriptionConcept)
+    min (Required)
+  }
+}

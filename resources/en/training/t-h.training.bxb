@@ -1,0 +1,5 @@
+train (t-hd54d25u1okls77i8jz40llxd) {
+  utterance ("[g:DescriptionResultConcept] Tell me about (the trident)[v:NamedObjectConcept].")
+  plan (Y2Bm0CzISaxML8ovzUvRSyxKzUvUc0ktTi7KLCjJzM8LSi0uzSlxzs9LTi0oYZDEoTQplUEZQ8ovMTc1xT8pKzUZrp+JgRGIGYAkIwMIMEEwAA==)
+  last-modified (1551567092461)
+}

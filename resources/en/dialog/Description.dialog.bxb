@@ -1,0 +1,6 @@
+dialog (Concept) {
+  match {
+    DescriptionConcept
+  }
+  template("description of object")
+}

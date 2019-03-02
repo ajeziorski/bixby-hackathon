@@ -1,0 +1,6 @@
+dialog (Concept) {
+  match {
+  NamedObjectConcept
+  }
+  template("name of object")
+}

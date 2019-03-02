@@ -1,0 +1,8 @@
+endpoints {
+  action-endpoints {
+    action-endpoint (Describe) {
+      accepted-inputs (objectName)
+      local-endpoint (Describe.js)
+    }
+  }
+}

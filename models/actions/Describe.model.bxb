@@ -1,0 +1,11 @@
+action (Describe) {
+  description (The request for a more detailed description of an element in the scene)
+  collect {
+    input (objectName) {
+      type (NamedObjectConcept)
+      min (Required)
+    }
+  }
+  output (DescriptionResultConcept)
+  type (Fetch)
+}
