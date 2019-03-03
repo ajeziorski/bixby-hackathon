@@ -4,6 +4,14 @@ action (Describe) {
     input (objectName) {
       type (NamedObjectConcept)
       min (Required)
+      default-init {
+        intent {
+          goal {NamedObjectConcept}
+          value {
+            NamedObjectConcept ("situation")
+          }
+        }
+      }
     }
   }
   output (DescriptionResultConcept)

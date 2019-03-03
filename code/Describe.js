@@ -4,17 +4,20 @@ module.exports.function = function describe (objectName) {
   var res = "";
   
   switch (String(objectName)) {
-    case "Sword":
+    case "sword":
       res = "A short curved sword, a versatile weapon.";
       break;
     case "the sword":
       res = "A short curved sword, a versatile weapon.";
       break;
-    case "the Trident":
-      res = "A three-pronged top-heavy weapon with considerable reach.";
+    case "the spear":
+      res = "A sharp top-heavy weapon with considerable reach.";
       break;
-    case "Trident":
-      res = "A three-pronged top-heavy weapon with considerable reach.";
+     case "situation":
+      res = "You are standing by the entrance to a circular arena. A crowd watches you from above and is buzzing with anticipation. Behind you there is a rack with two weapons to choose from. A sword and a trident.";
+      break;
+     case "the situation":
+      res = "You are standing by the entrance to a circular arena. A crowd watches you from above and is buzzing with anticipation. Behind you there is a rack with two weapons to choose from. A sword and a spear.";
       break;
   }
   return {desc: res,}
