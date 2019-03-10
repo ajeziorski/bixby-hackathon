@@ -1,0 +1,9 @@
+dialog (Result) {
+  match {
+    UseResult (useResult)
+    {
+      from-output: Use(useOutput) 
+    }
+  }
+  template("${value(useResult.resu)}")
+}

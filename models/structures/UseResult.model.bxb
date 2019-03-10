@@ -1,0 +1,7 @@
+structure (UseResult) {
+  description (The results of interactions.)
+  property (resu) {
+    type (UseEffect)
+    min (Required)
+  }
+}

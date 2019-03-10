@@ -1,0 +1,31 @@
+action (Use) {
+  description (The request to use an object in the world on another object.)
+  collect {
+    input (usedObjectName) {
+      type (UsedObject)
+      min (Required)
+      default-init {
+        intent {
+          goal {UsedObject}
+          value {
+            UsedObject ("MISSING_USED")
+          }
+        }
+      }
+    }
+    input (usedOnObjectName) {
+      type (NamedObjectConcept)
+      min (Required)
+      default-init {
+        intent {
+          goal {NamedObjectConcept}
+          value {
+            NamedObjectConcept ("MISSING_USEDON")
+          }
+        }
+      }
+    }
+  }
+  output (UseResult)
+  type (Search)
+}

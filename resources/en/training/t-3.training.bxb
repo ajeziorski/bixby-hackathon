@@ -3,3 +3,8 @@ train (t-33ioh9qmw01zfv06evzsnpzu5) {
   plan (Y2Bk0MhITM5OLMnIz9NLLErNS9RzSS1OLsosKMnMzwtKLS7NKXHOz0tOLShhAAFGEAEA)
   last-modified (1551644247842)
 }
+train (t-3kqb3xxmru5by7dcx27pxtdzo) {
+  utterance ("[g:UseResult] Use (the sword)[v:UsedObject] on (the enemy)[v:NamedObjectConcept].")
+  plan (Y2BhkCrISaxML8ovzUvRSyxKzUvUCy1ODUotLs0pYRDBJsegjCHql5ibmuKflJWaXOKcn5ecWlDCII1NK1QNAzMDIwMTkGQA0iAIASA+WBQA)
+  last-modified (1552228939752)
+}

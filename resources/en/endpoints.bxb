@@ -4,5 +4,9 @@ endpoints {
       accepted-inputs (objectName)
       local-endpoint (Describe.js)
     }
+    action-endpoint (Use) {
+      accepted-inputs (usedObjectName, usedOnObjectName)
+      local-endpoint (Use.js)
+    }
   }
 }
