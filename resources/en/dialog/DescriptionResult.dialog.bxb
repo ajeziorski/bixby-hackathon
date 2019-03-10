@@ -1,6 +1,6 @@
 dialog (Result) {
   match {
-    DescriptionResultConcept (descriptionResult)
+    DescriptionResult (descriptionResult)
     {
       from-output: Describe(descriptionOutput) 
     }

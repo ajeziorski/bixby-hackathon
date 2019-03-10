@@ -1,6 +1,6 @@
 dialog (Concept) {
   match {
-    DescriptionConcept
+    Description
   }
   template("description of object")
 }

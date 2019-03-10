@@ -14,13 +14,13 @@ action (Use) {
       }
     }
     input (usedOnObjectName) {
-      type (NamedObjectConcept)
+      type (NamedObject)
       min (Required)
       default-init {
         intent {
-          goal {NamedObjectConcept}
+          goal {NamedObject}
           value {
-            NamedObjectConcept ("MISSING_USEDON")
+            NamedObject ("MISSING_USEDON")
           }
         }
       }

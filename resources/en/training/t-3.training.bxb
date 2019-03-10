@@ -1,10 +1,10 @@
 train (t-33ioh9qmw01zfv06evzsnpzu5) {
-  utterance ([g:DescriptionResultConcept] Tell me what is happening.)
-  plan (Y2Bk0MhITM5OLMnIz9NLLErNS9RzSS1OLsosKMnMzwtKLS7NKXHOz0tOLShhAAFGEAEA)
-  last-modified (1551644247842)
+  utterance ([g:DescriptionResult] Tell me what is happening.)
+  plan (Y2BkUCrISaxML8ovzUvRSyxKzUvUc0ktTi7KLCjJzM8LSi0uzSlhAAFGEAEA)
+  last-modified (1552230093232)
 }
 train (t-3kqb3xxmru5by7dcx27pxtdzo) {
-  utterance ("[g:UseResult] Use (the sword)[v:UsedObject] on (the enemy)[v:NamedObjectConcept].")
-  plan (Y2BhkCrISaxML8ovzUvRSyxKzUvUCy1ODUotLs0pYRDBJsegjCHql5ibmuKflJWaXOKcn5ecWlDCII1NK1QNAzMDIwMTkGQA0iAIASA+WBQA)
-  last-modified (1552228939752)
+  utterance ("[g:UseResult] Use (the sword)[v:UsedObject] on (the enemy)[v:NamedObject].")
+  plan (Y2BhkCrISaxML8ovzUvRSyxKzUvUCy1ODUotLs0pYRDBJscggyHql5ibmuKflJWaXMIgjU0PTJKZgZGBCUgyAGkQhAAQHywKAA==)
+  last-modified (1552230062658)
 }

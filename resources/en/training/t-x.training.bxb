@@ -1,5 +1,5 @@
 train (t-xhldr51adyb94mrn2em50appr) {
-  utterance ("[g:DescriptionResultConcept] Describe (the sword)[v:NamedObjectConcept].")
-  plan (Y2Bm0MhITM5OLMnIz9NLLErNS9RzSS1OLsosKMnMzwtKLS7NKXHOz0tOLShhkMCuMimVQQldxi8xNzXFPykrNRmum4mBEYgZgCQjAwgwQTAA)
-  last-modified (1551566569316)
+  utterance ("[g:DescriptionResult] Describe (the sword)[v:NamedObject].")
+  plan (Y2BmUCrISaxML8ovzUvRSyxKzUvUc0ktTi7KLCjJzM8LSi0uzSlhkMShJimVQQZDyi8xNzXFPykrNbmEgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1552230128863)
 }

@@ -1,6 +1,6 @@
 dialog (Concept) {
   match {
-  NamedObjectConcept
+  NamedObject
   }
   template("name of object")
 }

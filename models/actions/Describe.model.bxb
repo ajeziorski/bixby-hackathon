@@ -2,18 +2,18 @@ action (Describe) {
   description (The request for a more detailed description of an element in the scene)
   collect {
     input (objectName) {
-      type (NamedObjectConcept)
+      type (NamedObject)
       min (Required)
       default-init {
         intent {
-          goal {NamedObjectConcept}
+          goal {NamedObject}
           value {
-            NamedObjectConcept ("situation")
+            NamedObject ("situation")
           }
         }
       }
     }
   }
-  output (DescriptionResultConcept)
+  output (DescriptionResult)
   type (Fetch)
 }

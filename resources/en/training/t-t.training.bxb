@@ -1,5 +1,5 @@
 train (t-tkizyvirh3dby2bnk3qtt5gc6) {
-  utterance ("[g:DescriptionResultConcept] What is (the situation)[v:NamedObjectConcept].")
-  plan (Y2Bm0MhITM5OLMnIz9NLLErNS9RzSS1OLsosKMnMzwtKLS7NKXHOz0tOLShhkMCuMimVQQldxi8xNzXFPykrNRmum4mBEYgZgCQjAwgwQTAA)
-  last-modified (1551644148272)
+  utterance ("[g:DescriptionResult] What is (the situation)[v:NamedObject].")
+  plan (Y2BmUCrISaxML8ovzUvRSyxKzUvUc0ktTi7KLCjJzM8LSi0uzSlhkMShJimVQQZDyi8xNzXFPykrNbmEgYmBEYgZgCQjAwgwQTAA)
+  last-modified (1552230096976)
 }
